@@ -4,7 +4,7 @@ import java.awt.*;
 public class IntroductionPanel extends JPanel {
 
     public IntroductionPanel() {
-        setBackground(new Color(60, 179, 113)); // nice green
+        setBackground(new Color(160, 179, 113)); // nice green
         setLayout(new GridBagLayout());
 
         JLabel label = new JLabel("You are in the game!");
